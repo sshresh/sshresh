@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sshresh
 - 👀 I’m interested in opensource contribution 
-- 🌱 I’m currently learning coding languages such as c,c++python etc
+- 🌱 I’m currently learning coding languages such as c,c++,python,etc
 - 💞️ I’m looking to collaborate on building a antivirus 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
